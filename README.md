@@ -4,6 +4,6 @@ I am 13 years old and like javascript and C#
 <br>
 I'm from noord-brabant in the netherlands.
 <br><br><br>
-[![Niek's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiekvD&show_icons=true&theme=tokyonight&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Niek's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiekvD&show_icons=true&theme=tokyonight&layout=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiekvD&layout=compact&show_icons=true&theme=tokyonight&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
