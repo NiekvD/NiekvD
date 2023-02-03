@@ -1,5 +1,5 @@
 ## Hi there👋 My name is Niek 
-###### name pronounced like [this](https://itinerarium.github.io/phoneme-synthesis/?w=/nik/ "A wild name apeared!")
+
 I am 13 years old and like javascript and C#
 <br>
 I'm from noord-brabant in the netherlands.
