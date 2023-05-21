@@ -1,7 +1,5 @@
 ## Hi there👋 My name is Niek 
 
-I am 13 years old and like javascript and C#
-<br>
 I'm from noord-brabant in the netherlands.
 <br><br><br>
 [![Niek's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiekvD&show_icons=true&theme=tokyonight&layout=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
